@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/the0kan/adsforecast/main/assets/logo-mark.svg" width="72" alt="AdsForecast logo">
 
 # Okan Ozkan
 
