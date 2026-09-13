@@ -6,7 +6,7 @@
 
 Warsaw, Poland
 
-[LinkedIn](https://www.linkedin.com/in/okan-okan/) · [AdsForecast](https://adsforecast.com)
+[LinkedIn](https://www.linkedin.com/in/okan-okan/)
 </div>
 
 ## About me
