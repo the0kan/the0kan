@@ -1,37 +1,37 @@
+<div align="center">
 
 # Okan Ozkan
 
-**Building focused products where advertising data, automation, and decision-making meet.**
+**Computer Engineering Student · Software Developer**
 
-[AdsForecast](https://adsforecast.com) · [Source](https://github.com/the0kan/adsforecast)
+Warsaw, Poland
+
+[LinkedIn](https://www.linkedin.com/in/okan-okan/) · [AdsForecast](https://adsforecast.com)
 </div>
 
-## Currently building
+## About me
 
-### AdsForecast
+I'm a Computer Engineering student at Vistula University in Warsaw. I enjoy building web applications and learning how frontend, backend, databases, and external services work together.
 
-An AI-assisted campaign intelligence workspace that turns Meta Ads performance into clearer actions. It brings campaign monitoring, profitability signals, account integrations, and decision support into one focused product experience.
+My current work is centered on Python, JavaScript, SQL, and REST APIs, with hands-on experience in authentication, databases, and third-party integrations. I'm looking for opportunities where I can contribute to real software projects and keep improving alongside an experienced team.
 
-- Designing a calm, responsive interface for dense advertising data
-- Building authentication, account, and integration workflows with Supabase
-- Developing campaign analysis around spend, ROAS, profitability, and risk signals
-- Preparing the product for subscriptions, operations, and production use
+## Technical focus
 
-## What I care about
+`Python` · `JavaScript` · `SQL` · `REST APIs` · `HTML` · `CSS` · `Databases` · `Authentication` · `Third-party integrations`
 
-- **Useful product design** - interfaces should reduce decisions, not add noise
-- **End-to-end ownership** - from positioning and UI to data flows and deployment
-- **Reliable integrations** - clear states, honest data, and recoverable failures
-- **Continuous improvement** - learning by building and shipping real products
+## Current project
 
-## Working with
+### [AdsForecast](https://github.com/the0kan/adsforecast)
 
-`JavaScript` · `HTML` · `CSS` · `Supabase` · `PostgreSQL` · `GitHub Actions` · `Vercel`
+An AI-assisted campaign intelligence workspace for analyzing Meta Ads performance, profitability, and campaign risk.
 
-## Selected project
+- Responsive campaign analytics and decision-support interface
+- Supabase authentication and database workflows
+- Meta Ads account and campaign integration
+- Live project: [adsforecast.com](https://adsforecast.com)
 
-| Project | What it does | Live |
-| --- | --- | --- |
-| [AdsForecast](https://github.com/the0kan/adsforecast) | AI-assisted Meta Ads campaign intelligence and profitability workspace | [adsforecast.com](https://adsforecast.com) |
+## Let's connect
 
-<sub>Currently focused on making AdsForecast simpler, more trustworthy, and ready for real customers.</sub>
+I'm always happy to meet people in tech, learn from their work, and talk about software development opportunities.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/okan-okan/)
