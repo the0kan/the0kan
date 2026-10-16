@@ -1,37 +1,60 @@
 <div align="center">
 
-# Okan Ozkan
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero-dark.svg" width="100%" alt="Okan Ozkan - Computer Engineering and AI Engineering">
+</picture>
 
-**Computer Engineering Student · Software Developer**
+<br>
 
-Warsaw, Poland
+[LinkedIn](https://www.linkedin.com/in/okanozkan-dev) &nbsp;·&nbsp;
+[AdsForecast](https://adsforecast.com) &nbsp;·&nbsp;
+[Email](mailto:okanmsf@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/okan-okan/)
 </div>
 
-## About me
+## What I am working on
 
-I'm a Computer Engineering student at Vistula University in Warsaw. I enjoy building web applications and learning how frontend, backend, databases, and external services work together.
+I am a Computer Engineering student at Vistula University in Warsaw, specializing in AI Engineering. I build practical systems where data, models, APIs, and product interfaces meet.
 
-My current work is centered on Python, JavaScript, SQL, and REST APIs, with hands-on experience in authentication, databases, and third-party integrations. I'm looking for opportunities where I can contribute to real software projects and keep improving alongside an experienced team.
+- Building **[AdsForecast](https://github.com/the0kan/adsforecast)**, a live platform for Meta Ads profitability analysis and campaign decisions.
+- Studying machine learning as a system: reproducibility, resource use, inference cost, and deployment constraints.
+- Strengthening my foundations in algorithms, networking, Linux, testing, and reliable infrastructure.
 
-## Technical focus
+## Selected work
 
-`Python` · `JavaScript` · `SQL` · `REST APIs` · `HTML` · `CSS` · `Databases` · `Authentication` · `Third-party integrations`
+### [AdsForecast](https://github.com/the0kan/adsforecast) · [live product](https://adsforecast.com)
 
-## Current project
+Meta Ads data becomes contribution-margin, break-even, and campaign recommendations. The project connects a static web client to Supabase Auth, PostgreSQL, Edge Functions, Meta's Marketing API, AI providers, and Stripe. CI and browser checks cover core flows, responsive layouts, and accessibility basics.
 
-### [AdsForecast](https://github.com/the0kan/adsforecast)
+`JavaScript` `Supabase` `PostgreSQL` `REST APIs` `GitHub Actions`
 
-An AI-assisted campaign intelligence workspace for analyzing Meta Ads performance, profitability, and campaign risk.
+### [TaskPilot](https://github.com/iwosmu/Codeangers) · [demo](https://www.youtube.com/watch?v=rPXVT3FQx7k)
 
-- Responsive campaign analytics and decision-support interface
-- Supabase authentication and database workflows
-- Meta Ads account and campaign integration
-- Live project: [adsforecast.com](https://adsforecast.com)
+A five-person hackathon prototype that turns a project brief and team CVs into shared briefs, a dependency graph, evidence-backed owner suggestions, and reviewed GitHub issues. I worked on the React and TypeScript frontend.
 
-## Let's connect
+`React` `TypeScript` `Vite` `FastAPI` `Gemini`
 
-I'm always happy to meet people in tech, learn from their work, and talk about software development opportunities.
+### [Machine Learning Systems Laboratory](https://github.com/the0kan/machine-learning-lab)
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/okan-okan/)
+Reproducible Python experiments that compare more than model accuracy. The first lab measures training and inference time, model size, memory use, and deployment fit across cloud, edge, mobile, and TinyML constraints.
+
+`Python` `scikit-learn` `NumPy` `PyTorch` `Benchmarking`
+
+## How I work
+
+I prefer small, testable changes and evidence I can reproduce. I document architecture and operational constraints, keep secrets out of client code, and test the paths that matter before calling a feature complete.
+
+```text
+strongest       Python
+building with   JavaScript · TypeScript · SQL · React · Supabase
+foundations     Data structures · Algorithms · Networks · Databases · Linux
+based in        Warsaw, Poland
+```
+
+<div align="center">
+
+<sub>Currently studying Computer Engineering at Vistula University · Expected graduation 2028</sub>
+
+</div>

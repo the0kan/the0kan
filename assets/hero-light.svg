@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Okan Ozkan - Computer Engineering and AI Engineering</title>
+  <desc id="desc">A system map connecting data, models, APIs, and products.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7fafc"/>
+      <stop offset="1" stop-color="#edf3f8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#087F6B"/>
+      <stop offset="1" stop-color="#6755D9"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#cdd8e4" stroke-width="1" opacity="0.55"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="418" rx="27" fill="none" stroke="#c6d2df" stroke-width="2"/>
+  <rect x="58" y="52" width="110" height="8" rx="4" fill="url(#accent)"/>
+
+  <text x="58" y="128" fill="#132238" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="56" font-weight="760" letter-spacing="-1.5">Okan Ozkan</text>
+  <text x="60" y="171" fill="#55677d" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="23" font-weight="500">Computer Engineering · AI Engineering</text>
+  <text x="60" y="224" fill="#25364b" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22">Building practical systems across data, models, APIs,</text>
+  <text x="60" y="256" fill="#25364b" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22">and product interfaces.</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="650">
+    <rect x="60" y="308" width="98" height="34" rx="17" fill="#e5f2ef" stroke="#a9d8ce"/>
+    <text x="82" y="330" fill="#087F6B">PYTHON</text>
+    <rect x="170" y="308" width="122" height="34" rx="17" fill="#e9eef5" stroke="#c4cfdd"/>
+    <text x="191" y="330" fill="#3f5269">JAVASCRIPT</text>
+    <rect x="304" y="308" width="122" height="34" rx="17" fill="#e9eef5" stroke="#c4cfdd"/>
+    <text x="325" y="330" fill="#3f5269">TYPESCRIPT</text>
+    <rect x="438" y="308" width="72" height="34" rx="17" fill="#e9eef5" stroke="#c4cfdd"/>
+    <text x="459" y="330" fill="#3f5269">SQL</text>
+  </g>
+
+  <text x="60" y="384" fill="#63758b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">WARSAW, PL  /  VISTULA UNIVERSITY  /  2028</text>
+
+  <g transform="translate(690 66)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <path d="M92 75H232M276 75H416M416 94V195M397 215H276M232 215H92M72 195V94" fill="none" stroke="#9baabe" stroke-width="3" stroke-dasharray="7 8"/>
+    <path d="M215 75l18-9v18zM399 215l18-9v18z" fill="#087F6B"/>
+    <circle cx="72" cy="75" r="52" fill="#ecf6f3" stroke="#087F6B" stroke-width="2"/>
+    <circle cx="256" cy="75" r="52" fill="#f0edfb" stroke="#6755D9" stroke-width="2"/>
+    <circle cx="436" cy="75" r="52" fill="#ecf6f3" stroke="#087F6B" stroke-width="2"/>
+    <circle cx="256" cy="215" r="62" fill="#f7fafc" stroke="url(#accent)" stroke-width="3"/>
+    <text x="72" y="70" text-anchor="middle" fill="#14263b" font-size="15" font-weight="700">DATA</text>
+    <text x="72" y="91" text-anchor="middle" fill="#66798f" font-size="11">measure</text>
+    <text x="256" y="70" text-anchor="middle" fill="#14263b" font-size="15" font-weight="700">MODEL</text>
+    <text x="256" y="91" text-anchor="middle" fill="#66798f" font-size="11">reason</text>
+    <text x="436" y="70" text-anchor="middle" fill="#14263b" font-size="15" font-weight="700">API</text>
+    <text x="436" y="91" text-anchor="middle" fill="#66798f" font-size="11">connect</text>
+    <text x="256" y="211" text-anchor="middle" fill="#14263b" font-size="15" font-weight="700">PRODUCT</text>
+    <text x="256" y="233" text-anchor="middle" fill="#66798f" font-size="11">build · test · learn</text>
+  </g>
+</svg>
