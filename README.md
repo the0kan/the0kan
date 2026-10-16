@@ -14,43 +14,39 @@
 
 </div>
 
-## What I am working on
+## About
 
-I am a Computer Engineering student at Vistula University in Warsaw, specializing in AI Engineering. I build practical systems where data, models, APIs, and product interfaces meet.
+I'm studying Computer Engineering at Vistula University in Warsaw, with a specialization in AI Engineering. Python is the language I know best. Most of my recent work has been web applications, APIs, and small machine learning systems.
 
-- Building **[AdsForecast](https://github.com/the0kan/adsforecast)**, a live platform for Meta Ads profitability analysis and campaign decisions.
-- Studying machine learning as a system: reproducibility, resource use, inference cost, and deployment constraints.
-- Strengthening my foundations in algorithms, networking, Linux, testing, and reliable infrastructure.
+Right now, most of my project time goes into [AdsForecast](https://github.com/the0kan/adsforecast). At university, I'm working through algorithms, networks, databases, and machine learning systems.
 
 ## Selected work
 
 ### [AdsForecast](https://github.com/the0kan/adsforecast) · [live product](https://adsforecast.com)
 
-Meta Ads data becomes contribution-margin, break-even, and campaign recommendations. The project connects a static web client to Supabase Auth, PostgreSQL, Edge Functions, Meta's Marketing API, AI providers, and Stripe. CI and browser checks cover core flows, responsive layouts, and accessibility basics.
+AdsForecast shows which Meta campaigns are profitable after costs. It pulls campaign data through Meta's Marketing API, calculates contribution margin and break-even ROAS, and stores workspace data in Supabase and PostgreSQL. Provider keys and OAuth tokens stay behind Edge Functions. The repository includes CI and browser tests for authentication, core flows, responsive layouts, and basic accessibility.
 
 `JavaScript` `Supabase` `PostgreSQL` `REST APIs` `GitHub Actions`
 
 ### [TaskPilot](https://github.com/iwosmu/Codeangers) · [demo](https://www.youtube.com/watch?v=rPXVT3FQx7k)
 
-A five-person hackathon prototype that turns a project brief and team CVs into shared briefs, a dependency graph, evidence-backed owner suggestions, and reviewed GitHub issues. I worked on the React and TypeScript frontend.
+At the Google Student AI Hackathon in Warsaw, our five-person team built TaskPilot from a project brief to a working demo. The prototype reads a brief and team CVs, builds a dependency graph, suggests owners with supporting evidence, and exports reviewed issues to GitHub. I worked on the React and TypeScript frontend. Our demo created one parent issue and 15 assigned sub-issues.
 
 `React` `TypeScript` `Vite` `FastAPI` `Gemini`
 
 ### [Machine Learning Systems Laboratory](https://github.com/the0kan/machine-learning-lab)
 
-Reproducible Python experiments that compare more than model accuracy. The first lab measures training and inference time, model size, memory use, and deployment fit across cloud, edge, mobile, and TinyML constraints.
+My first lab compares Logistic Regression and Random Forest on a fixed 70/30 split. It records accuracy, training and inference time, model size, and memory use. Logistic Regression reached 98.83% test accuracy; both models fit the assignment's cloud, edge, and mobile limits, but neither fit its TinyML memory budget.
 
 `Python` `scikit-learn` `NumPy` `PyTorch` `Benchmarking`
 
-## How I work
-
-I prefer small, testable changes and evidence I can reproduce. I document architecture and operational constraints, keep secrets out of client code, and test the paths that matter before calling a feature complete.
+## Current toolkit
 
 ```text
-strongest       Python
-building with   JavaScript · TypeScript · SQL · React · Supabase
-foundations     Data structures · Algorithms · Networks · Databases · Linux
-based in        Warsaw, Poland
+language I use most   Python
+also building with   JavaScript · TypeScript · SQL · React
+tools                Git · Linux · Supabase · PostgreSQL · GitHub Actions
+coursework           Data structures · Algorithms · Networks · Databases · ML systems
 ```
 
 <div align="center">
