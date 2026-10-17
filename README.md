@@ -1,56 +1,41 @@
-<div align="center">
+# Okan Özkan
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Okan Ozkan - Computer Engineering and AI Engineering">
-</picture>
+Computer Engineering student at Vistula University in Warsaw, specializing in AI Engineering.
 
-<br>
+Python is the language I reach for first. These days I spend most of my project time on web applications, APIs, and small machine learning systems. I also work with JavaScript, TypeScript, SQL, and React when the project calls for them.
 
-[LinkedIn](https://www.linkedin.com/in/okanozkan-dev) &nbsp;·&nbsp;
-[AdsForecast](https://adsforecast.com) &nbsp;·&nbsp;
-[Email](mailto:okanmsf@gmail.com)
+## What I'm working on
 
-</div>
+### [AdsForecast](https://github.com/the0kan/adsforecast)
 
-## About
+I'm building [AdsForecast](https://adsforecast.com) to answer a practical question for Meta advertisers: did a campaign make money after product costs, fees, and ad spend?
 
-I'm studying Computer Engineering at Vistula University in Warsaw, with a specialization in AI Engineering. Python is the language I know best. Most of my recent work has been web applications, APIs, and small machine learning systems.
+The app connects to the Meta Marketing API, calculates contribution margin and break-even ROAS, and keeps workspace data in Supabase and PostgreSQL. Authentication, provider keys, and OAuth tokens are handled behind Edge Functions. The repository also has CI and browser tests for the flows I don't want to break.
 
-Right now, most of my project time goes into [AdsForecast](https://github.com/the0kan/adsforecast). At university, I'm working through algorithms, networks, databases, and machine learning systems.
+[Try it](https://adsforecast.com) · [Read the code](https://github.com/the0kan/adsforecast)
 
-## Selected work
+### [TaskPilot](https://github.com/iwosmu/Codeangers)
 
-### [AdsForecast](https://github.com/the0kan/adsforecast) · [live product](https://adsforecast.com)
+TaskPilot came out of the 2026 Google Student AI Hackathon in Warsaw. We were a team of five, and I built the React and TypeScript frontend.
 
-AdsForecast shows which Meta campaigns are profitable after costs. It pulls campaign data through Meta's Marketing API, calculates contribution margin and break-even ROAS, and stores workspace data in Supabase and PostgreSQL. Provider keys and OAuth tokens stay behind Edge Functions. The repository includes CI and browser tests for authentication, core flows, responsive layouts, and basic accessibility.
+Our prototype takes a project brief and team CVs, turns the work into a dependency graph, suggests an owner for each task, and exports the reviewed plan to GitHub. By demo time it could create a parent issue with 15 assigned sub-issues.
 
-`JavaScript` `Supabase` `PostgreSQL` `REST APIs` `GitHub Actions`
+[Repository](https://github.com/iwosmu/Codeangers) · [Watch the demo](https://www.youtube.com/watch?v=rPXVT3FQx7k)
 
-### [TaskPilot](https://github.com/iwosmu/Codeangers) · [demo](https://www.youtube.com/watch?v=rPXVT3FQx7k)
+### [Machine Learning Systems Lab](https://github.com/the0kan/machine-learning-lab)
 
-At the Google Student AI Hackathon in Warsaw, our five-person team built TaskPilot from a project brief to a working demo. The prototype reads a brief and team CVs, builds a dependency graph, suggests owners with supporting evidence, and exports reviewed issues to GitHub. I worked on the React and TypeScript frontend. Our demo created one parent issue and 15 assigned sub-issues.
+Not everything here is a product. This repo is where I'm documenting my ML systems coursework. The first lab compares Logistic Regression and Random Forest using a fixed 70/30 split, then measures accuracy, training time, inference time, model size, and memory use.
 
-`React` `TypeScript` `Vite` `FastAPI` `Gemini`
+Logistic Regression reached **98.83% test accuracy**. The more useful lesson was that model quality was only part of the decision: deployment limits changed which model made sense.
 
-### [Machine Learning Systems Laboratory](https://github.com/the0kan/machine-learning-lab)
+## The short version
 
-My first lab compares Logistic Regression and Random Forest on a fixed 70/30 split. It records accuracy, training and inference time, model size, and memory use. Logistic Regression reached 98.83% test accuracy; both models fit the assignment's cloud, edge, and mobile limits, but neither fit its TinyML memory budget.
+- Based in Warsaw, Poland
+- Computer Engineering, AI Engineering specialization
+- Expected graduation: 2028
+- Most comfortable with Python
+- Also use JavaScript, TypeScript, SQL, React, Supabase, PostgreSQL, Git, and Linux
 
-`Python` `scikit-learn` `NumPy` `PyTorch` `Benchmarking`
+## Find me elsewhere
 
-## Current toolkit
-
-```text
-language I use most   Python
-also building with   JavaScript · TypeScript · SQL · React
-tools                Git · Linux · Supabase · PostgreSQL · GitHub Actions
-coursework           Data structures · Algorithms · Networks · Databases · ML systems
-```
-
-<div align="center">
-
-<sub>Currently studying Computer Engineering at Vistula University · Expected graduation 2028</sub>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/okanozkan-dev) · [Email](mailto:okanmsf@gmail.com) · [AdsForecast](https://adsforecast.com)
