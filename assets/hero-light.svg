@@ -1,57 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Okan Ozkan - Computer Engineering and AI Engineering</title>
-  <desc id="desc">A system map connecting data, models, APIs, and products.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Okan Ozkan</title>
+  <desc id="desc">A light isometric illustration of three linked project layers.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#f7fafc"/>
-      <stop offset="1" stop-color="#edf3f8"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#087F6B"/>
-      <stop offset="1" stop-color="#6755D9"/>
-    </linearGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#cdd8e4" stroke-width="1" opacity="0.55"/>
-    </pattern>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f7faff"/><stop offset="1" stop-color="#e9f0fb"/></linearGradient>
+    <linearGradient id="topA" x1="0" x2="1"><stop stop-color="#18a4dd"/><stop offset="1" stop-color="#7558ea"/></linearGradient>
+    <linearGradient id="topB" x1="0" x2="1"><stop stop-color="#26b979"/><stop offset="1" stop-color="#169acb"/></linearGradient>
+    <linearGradient id="topC" x1="0" x2="1"><stop stop-color="#ef9b35"/><stop offset="1" stop-color="#df4e82"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="12" flood-color="#5c7094" flood-opacity=".25"/></filter>
   </defs>
-
-  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="420" rx="28" fill="url(#grid)"/>
-  <rect x="1" y="1" width="1198" height="418" rx="27" fill="none" stroke="#c6d2df" stroke-width="2"/>
-  <rect x="58" y="52" width="110" height="8" rx="4" fill="url(#accent)"/>
-
-  <text x="58" y="128" fill="#132238" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="56" font-weight="760" letter-spacing="-1.5">Okan Ozkan</text>
-  <text x="60" y="171" fill="#55677d" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="23" font-weight="500">Computer Engineering · AI Engineering</text>
-  <text x="60" y="224" fill="#25364b" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22">Building practical systems across data, models, APIs,</text>
-  <text x="60" y="256" fill="#25364b" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22">and product interfaces.</text>
-
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="650">
-    <rect x="60" y="308" width="98" height="34" rx="17" fill="#e5f2ef" stroke="#a9d8ce"/>
-    <text x="82" y="330" fill="#087F6B">PYTHON</text>
-    <rect x="170" y="308" width="122" height="34" rx="17" fill="#e9eef5" stroke="#c4cfdd"/>
-    <text x="191" y="330" fill="#3f5269">JAVASCRIPT</text>
-    <rect x="304" y="308" width="122" height="34" rx="17" fill="#e9eef5" stroke="#c4cfdd"/>
-    <text x="325" y="330" fill="#3f5269">TYPESCRIPT</text>
-    <rect x="438" y="308" width="72" height="34" rx="17" fill="#e9eef5" stroke="#c4cfdd"/>
-    <text x="459" y="330" fill="#3f5269">SQL</text>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <g opacity=".14" stroke="#56709d" stroke-width="1"><path d="M0 66h1200M0 132h1200M0 198h1200M0 264h1200M0 330h1200"/><path d="M75 0v360M150 0v360M225 0v360M300 0v360M375 0v360M450 0v360M525 0v360M600 0v360M675 0v360M750 0v360M825 0v360M900 0v360M975 0v360M1050 0v360M1125 0v360"/></g>
+  <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"><text x="64" y="119" fill="#17212f" font-size="50" font-weight="700" letter-spacing="-1.8">Okan Ozkan</text><text x="66" y="157" fill="#53647a" font-size="18">computer engineering · AI engineering</text><path d="M66 193h220" stroke="#aebdd1" stroke-width="2"/><text x="66" y="225" fill="#0876a7" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">build → measure → learn</text><text x="66" y="286" fill="#65758b" font-size="14">Warsaw, Poland</text></g>
+  <g filter="url(#shadow)">
+    <g transform="translate(737 69)"><path d="M0 40 108 0l108 40-108 40z" fill="url(#topA)"/><path d="M0 40l108 40v104L0 143z" fill="#416f9d"/><path d="m216 40-108 40v104l108-41z" fill="#55458f"/><path d="M24 46 108 15l84 31-84 31z" fill="none" stroke="#fff" stroke-opacity=".7"/><text x="108" y="56" text-anchor="middle" fill="#fff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700">ADS</text></g>
+    <g transform="translate(628 148)"><path d="M0 40 108 0l108 40-108 40z" fill="url(#topB)"/><path d="M0 40l108 40v104L0 143z" fill="#3a7b73"/><path d="m216 40-108 40v104l108-41z" fill="#376f93"/><path d="M24 46 108 15l84 31-84 31z" fill="none" stroke="#fff" stroke-opacity=".7"/><text x="108" y="56" text-anchor="middle" fill="#fff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700">TASK</text></g>
+    <g transform="translate(846 156)"><path d="M0 40 108 0l108 40-108 40z" fill="url(#topC)"/><path d="M0 40l108 40v104L0 143z" fill="#9b5b49"/><path d="m216 40-108 40v104l108-41z" fill="#8b3e68"/><path d="M24 46 108 15l84 31-84 31z" fill="none" stroke="#fff" stroke-opacity=".72"/><text x="108" y="56" text-anchor="middle" fill="#fff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700">ML</text></g>
   </g>
-
-  <text x="60" y="384" fill="#63758b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">WARSAW, PL  /  VISTULA UNIVERSITY  /  2028</text>
-
-  <g transform="translate(690 66)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-    <path d="M92 75H232M276 75H416M416 94V195M397 215H276M232 215H92M72 195V94" fill="none" stroke="#9baabe" stroke-width="3" stroke-dasharray="7 8"/>
-    <path d="M215 75l18-9v18zM399 215l18-9v18z" fill="#087F6B"/>
-    <circle cx="72" cy="75" r="52" fill="#ecf6f3" stroke="#087F6B" stroke-width="2"/>
-    <circle cx="256" cy="75" r="52" fill="#f0edfb" stroke="#6755D9" stroke-width="2"/>
-    <circle cx="436" cy="75" r="52" fill="#ecf6f3" stroke="#087F6B" stroke-width="2"/>
-    <circle cx="256" cy="215" r="62" fill="#f7fafc" stroke="url(#accent)" stroke-width="3"/>
-    <text x="72" y="70" text-anchor="middle" fill="#14263b" font-size="15" font-weight="700">DATA</text>
-    <text x="72" y="91" text-anchor="middle" fill="#66798f" font-size="11">measure</text>
-    <text x="256" y="70" text-anchor="middle" fill="#14263b" font-size="15" font-weight="700">MODEL</text>
-    <text x="256" y="91" text-anchor="middle" fill="#66798f" font-size="11">reason</text>
-    <text x="436" y="70" text-anchor="middle" fill="#14263b" font-size="15" font-weight="700">API</text>
-    <text x="436" y="91" text-anchor="middle" fill="#66798f" font-size="11">connect</text>
-    <text x="256" y="211" text-anchor="middle" fill="#14263b" font-size="15" font-weight="700">PRODUCT</text>
-    <text x="256" y="233" text-anchor="middle" fill="#66798f" font-size="11">build · test · learn</text>
-  </g>
+  <path d="m847 149 45-24m-42 103-58 25m184-13 47-21" fill="none" stroke="#557cad" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 7" opacity=".75"/><g fill="#426d9d"><circle cx="847" cy="149" r="4"/><circle cx="892" cy="125" r="4"/><circle cx="792" cy="253" r="4"/><circle cx="976" cy="240" r="4"/><circle cx="1023" cy="219" r="4"/></g>
 </svg>
