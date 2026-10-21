@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Okan Ozkan</title>
-  <desc id="desc">A dark isometric illustration of three linked project layers.</desc>
+  <desc id="desc">Three isometric blocks represent AdsForecast, TaskPilot and machine learning coursework.</desc>
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#121b2b"/></linearGradient>
     <linearGradient id="topA" x1="0" x2="1"><stop stop-color="#58d6ff"/><stop offset="1" stop-color="#8c6cff"/></linearGradient>
@@ -10,7 +10,7 @@
   </defs>
   <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
   <g opacity=".16" stroke="#8da1c4" stroke-width="1"><path d="M0 66h1200M0 132h1200M0 198h1200M0 264h1200M0 330h1200"/><path d="M75 0v360M150 0v360M225 0v360M300 0v360M375 0v360M450 0v360M525 0v360M600 0v360M675 0v360M750 0v360M825 0v360M900 0v360M975 0v360M1050 0v360M1125 0v360"/></g>
-  <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"><text x="64" y="119" fill="#f6f8fa" font-size="50" font-weight="700" letter-spacing="-1.8">Okan Ozkan</text><text x="66" y="157" fill="#a8b4c8" font-size="18">computer engineering · AI engineering</text><path d="M66 193h220" stroke="#40516d" stroke-width="2"/><text x="66" y="225" fill="#78ddff" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">build → measure → learn</text><text x="66" y="286" fill="#8f9db4" font-size="14">Warsaw, Poland</text></g>
+  <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"><text x="64" y="119" fill="#f6f8fa" font-size="50" font-weight="700" letter-spacing="-1.8">Okan Ozkan</text><text x="66" y="157" fill="#a8b4c8" font-size="18">web applications · APIs · ML systems</text><path d="M66 193h220" stroke="#40516d" stroke-width="2"/><text x="66" y="225" fill="#78ddff" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">Python / TypeScript / SQL</text><text x="66" y="286" fill="#8f9db4" font-size="14">Warsaw, Poland</text></g>
   <g filter="url(#shadow)">
     <g transform="translate(737 69)"><path d="M0 40 108 0l108 40-108 40z" fill="url(#topA)"/><path d="M0 40l108 40v104L0 143z" fill="#23466b"/><path d="m216 40-108 40v104l108-41z" fill="#3a2a6d"/><path d="M24 46 108 15l84 31-84 31z" fill="none" stroke="#e9f8ff" stroke-opacity=".66"/><text x="108" y="56" text-anchor="middle" fill="#0d1117" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700">ADS</text></g>
     <g transform="translate(628 148)"><path d="M0 40 108 0l108 40-108 40z" fill="url(#topB)"/><path d="M0 40l108 40v104L0 143z" fill="#245d5f"/><path d="m216 40-108 40v104l108-41z" fill="#205071"/><path d="M24 46 108 15l84 31-84 31z" fill="none" stroke="#eafff4" stroke-opacity=".7"/><text x="108" y="56" text-anchor="middle" fill="#0d1117" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700">TASK</text></g>
