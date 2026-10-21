@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=20261021">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg?v=20261021">
-  <img src="assets/hero-dark.svg?v=20261021" width="100%" alt="Okan Ozkan">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the0kan/the0kan/b7dc35e837986c0264962dc15411fc1d0d2bf7f2/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the0kan/the0kan/b7dc35e837986c0264962dc15411fc1d0d2bf7f2/assets/hero-light.svg">
+  <img src="https://raw.githubusercontent.com/the0kan/the0kan/b7dc35e837986c0264962dc15411fc1d0d2bf7f2/assets/hero-dark.svg" width="100%" alt="Okan Ozkan">
 </picture>
 
 I'm a Computer Engineering student at Vistula University in Warsaw, specializing in AI Engineering. Python is my main language; my web projects also use JavaScript, TypeScript, SQL and React.
