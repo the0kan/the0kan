@@ -1,12 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark-20261022.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light-20261022.svg">
-  <img src="assets/profile-dark-20261022.svg" width="100%" alt="Okan Ozkan - software development, Warsaw">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the0kan/the0kan/7b5e4ee21222489cd71de7b5a94750ba122fdbf5/assets/profile-dark-20261022.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the0kan/the0kan/7b5e4ee21222489cd71de7b5a94750ba122fdbf5/assets/profile-light-20261022.svg">
+  <img src="https://raw.githubusercontent.com/the0kan/the0kan/7b5e4ee21222489cd71de7b5a94750ba122fdbf5/assets/profile-dark-20261022.svg" width="100%" alt="Okan Ozkan - software development">
 </picture>
 
-I study Computer Engineering at Vistula University in Warsaw, specializing in AI Engineering. I build web applications and use Python for machine learning experiments.
+I'm a Computer Engineering student specializing in AI Engineering. I build web applications and use Python for machine learning experiments.
 
-Selected participant in the **2026 Google Student AI Hackathon, Warsaw**, where I worked on TaskPilot's frontend in a team of five.
+Selected participant in the **2026 Google Student AI Hackathon**, where I worked on TaskPilot's frontend in a team of five.
 
 ## Selected work
 
@@ -36,4 +36,4 @@ Python · scikit-learn
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/theokan) · [Email](mailto:okanmsf@gmail.com) · Warsaw, Poland
+[LinkedIn](https://www.linkedin.com/in/theokan) · [Email](mailto:okanmsf@gmail.com)
